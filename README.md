@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+Hello! This is the set up for my portfolio website
 npm install
 ```
 
